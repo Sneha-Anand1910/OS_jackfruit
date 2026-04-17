@@ -73,7 +73,4 @@ sudo rmmod monitor
 - CPU & Memory management
 - I/O handling
 
----
 
-
-Sneha Anand
